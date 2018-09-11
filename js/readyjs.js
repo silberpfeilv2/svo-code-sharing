@@ -1,3 +1,5 @@
+// Silberpfeil tarafından gönderildi. // 
+
 const Discord = require('discord.js');
 
 exports.run = (client, message, args) => {

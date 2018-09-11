@@ -1,4 +1,4 @@
-// YnsYmn tarafından gönderildi. // 
+// Surdaba tarafından gönderildi. // 
 
 exports.run = function(bot, msg, args) {
     if (args.length === 0) return msg.delete()
